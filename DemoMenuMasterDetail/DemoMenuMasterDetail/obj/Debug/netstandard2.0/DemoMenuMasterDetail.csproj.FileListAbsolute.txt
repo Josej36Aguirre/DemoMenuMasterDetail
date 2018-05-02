@@ -1,0 +1,15 @@
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\bin\Debug\netstandard2.0\DemoMenuMasterDetail.deps.json
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\bin\Debug\netstandard2.0\DemoMenuMasterDetail.dll
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\bin\Debug\netstandard2.0\DemoMenuMasterDetail.pdb
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.csprojResolveAssemblyReference.cache
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.csproj.CoreCompileInputs.cache
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.AlertasPage.xaml.g.cs
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.App.xaml.g.cs
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.ContactosPage.xaml.g.cs
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.ListadoPage.xaml.g.cs
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.MainPage.xaml.g.cs
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.AssemblyInfoInputs.cache
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.AssemblyInfo.cs
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.dll
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.pdb
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.MasterPage.xaml.g.cs
