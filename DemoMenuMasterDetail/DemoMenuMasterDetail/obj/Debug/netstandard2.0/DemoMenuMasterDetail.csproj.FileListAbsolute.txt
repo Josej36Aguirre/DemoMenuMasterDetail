@@ -12,3 +12,4 @@ C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenu
 C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.dll
 C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.pdb
 C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.MasterPage.xaml.g.cs
+C:\Users\Jose_Aguirre\Desktop\DemoMenuMasterDetail\DemoMenuMasterDetail\DemoMenuMasterDetail\obj\Debug\netstandard2.0\DemoMenuMasterDetail.csprojResolveAssemblyReference.cache
