@@ -12,7 +12,9 @@ namespace DemoMenuMasterDetail
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class MasterPage : ContentPage
 	{
-		public MasterPage ()
+        internal readonly object ListView;
+
+        public MasterPage ()
 		{
 			InitializeComponent ();
 		}

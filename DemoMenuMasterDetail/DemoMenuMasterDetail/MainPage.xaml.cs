@@ -12,7 +12,7 @@ namespace DemoMenuMasterDetail
 		public MainPage()
 		{
 			InitializeComponent();
-            masterPage.ListView.ItemSelected += onItemSelected;
+           //masterPage.ListView.ItemSelected += onItemSelected;
 
 
         }
@@ -23,7 +23,7 @@ namespace DemoMenuMasterDetail
             if (item != null)
             {
                 Detail = new NavigationPage((Page)Activator.CreateInstance(item.TipoPagina));
-                masterPage.ListeView.SelectedItem = null;
+              //  masterPage.ListeView.SelectedItem = null;
                 IsPresented = false;
             }
         }
@@ -32,6 +32,6 @@ namespace DemoMenuMasterDetail
 
 
 
-        public int onItemSelected { get; }
+       
     }
 }

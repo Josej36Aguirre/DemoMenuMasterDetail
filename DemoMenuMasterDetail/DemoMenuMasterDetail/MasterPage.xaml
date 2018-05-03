@@ -8,7 +8,7 @@
              Title="Ximian Icaza">
     <ContentPage.Content>
         <StackLayout>
-            <ListView x:Name="ListView">
+            <ListView x:Name="listView">
                 <ListView.ItemsSource>
                     <x:Array Type="{x:Type local:MasterPageItem}">
                         <local:MasterPageItem Titulo="Contactos" Icono="img2.png" TipoPagina="{x:Type local:ContactosPage}"/>
