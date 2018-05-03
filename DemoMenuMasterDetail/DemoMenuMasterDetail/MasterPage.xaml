@@ -11,7 +11,7 @@
             <ListView x:Name="listView">
                 <ListView.ItemsSource>
                     <x:Array Type="{x:Type local:MasterPageItem}">                                                                                                                      
-                        <local:MasterPageItem Titulo="Contactos" Icono="img2.png" TipoPagina="{x:Type local:ContactosPage}"/>
+                        <local:MasterPageItem Titulo="Contactos" Icono="contactos.png" TipoPagina="{x:Type local:ContactosPage}"/>
                         <local:MasterPageItem Titulo="Listado" Icono="listado.png" TipoPagina="{x:Type local:ListadoPage}"/>
                         <local:MasterPageItem Titulo="Alertas" Icono="alerta.png" TipoPagina="{x:Type local:AlertasPage}"/>
                     </x:Array>

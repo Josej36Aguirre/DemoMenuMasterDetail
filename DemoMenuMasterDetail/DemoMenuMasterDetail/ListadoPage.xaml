@@ -8,7 +8,7 @@
             <Image Source="img2.png"
                    HorizontalOptions="CenterAndExpand"
                    VerticalOptions="CenterAndExpand"/>
-            <Label Text="Esta es la Página de Alertas"
+            <Label Text="Esta es la Página de Lista"
                    HorizontalOptions="CenterAndExpand"
                    VerticalOptions="CenterAndExpand"/>
         </StackLayout>

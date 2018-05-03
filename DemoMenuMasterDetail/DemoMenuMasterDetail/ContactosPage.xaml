@@ -5,10 +5,10 @@
              Title="Contactos">
     <ContentPage.Content>
         <StackLayout>
-            <Image Source="img2.png"
+            <Image Source="contactos.png"
                    HorizontalOptions="CenterAndExpand"
                    VerticalOptions="CenterAndExpand"/>
-            <Label Text="Esta es la Página de Alertas"
+            <Label Text="Esta es la Página de Contactos"
                    HorizontalOptions="CenterAndExpand"
                    VerticalOptions="CenterAndExpand"/>
         </StackLayout>
